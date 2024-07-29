@@ -247,6 +247,70 @@ function instructions_page_content() {
             </ol>
         </div>
 
+        <!-- Sección de gestión de productos reservables WooCommerce Bookings -->
+        <div class="instructions-section">
+            <h2>Gestión de Productos Reservables WooCommerce Bookings</h2>
+            <h3>Crear un Producto Reservable</h3>
+            <ol>
+                <li>Ve a <strong>Productos > Añadir nuevo</strong>.</li>
+                <li>Introduce el nombre del producto y una descripción detallada.</li>
+                <li>En la sección "Datos del producto", selecciona <strong>Producto reservable</strong>.</li>
+                <li>Configura las opciones básicas del producto:
+                    <ul>
+                        <li><strong>Generales:</strong> Define el precio base y si el producto tiene un costo adicional por bloque de tiempo reservado.</li>
+                        <li><strong>Reservas:</strong> Configura la duración de la reserva (por hora, día, etc.) y la disponibilidad (fechas y horarios específicos).</li>
+                        <li><strong>Restricciones:</strong> Establece restricciones de tiempo entre reservas, cantidad máxima de reservas por persona, y otros parámetros específicos.</li>
+                        <li><strong>Costes:</strong> Configura precios adicionales por persona o por recurso.</li>
+                        <li><strong>Personas:</strong> Activa esta opción si el producto requiere definir un número de personas para la reserva, con precios específicos.</li>
+                        <li><strong>Recursos:</strong> Añade y configura recursos adicionales necesarios para la reserva.</li>
+                    </ul>
+                </li>
+                <li>Selecciona la categoría del producto en la sección "Categorías de producto".</li>
+                <li>Sube una imagen del producto en la sección "Imagen del producto".</li>
+                <li>Haz clic en <strong>Publicar</strong>.</li>
+            </ol>
+            
+            <h3>Crear un Alojamiento Reservable</h3>
+            <ol>
+                <li>Ve a <strong>Productos > Añadir nuevo</strong>.</li>
+                <li>Introduce el nombre del alojamiento y una descripción detallada.</li>
+                <li>En la sección "Datos del producto", selecciona <strong>Alojamiento</strong>.</li>
+                <li>Configura las opciones básicas del alojamiento:
+                    <ul>
+                        <li><strong>Generales:</strong> Define el precio por noche y si el alojamiento tiene un costo adicional por huésped o recurso.</li>
+                        <li><strong>Reservas:</strong> Configura la duración mínima y máxima de la estancia, y la disponibilidad del alojamiento.</li>
+                        <li><strong>Restricciones:</strong> Establece restricciones de tiempo entre reservas, cantidad máxima de reservas por persona, y otros parámetros específicos.</li>
+                        <li><strong>Costes:</strong> Configura precios adicionales por persona o por recurso.</li>
+                        <li><strong>Personas:</strong> Activa esta opción si el alojamiento requiere definir un número de huéspedes, con precios específicos.</li>
+                        <li><strong>Recursos:</strong> Añade y configura recursos adicionales necesarios para la estancia.</li>
+                    </ul>
+                </li>
+                <li>Selecciona la categoría del alojamiento en la sección "Categorías de producto".</li>
+                <li>Sube una imagen del alojamiento en la sección "Imagen del producto".</li>
+                <li>Haz clic en <strong>Publicar</strong>.</li>
+            </ol>
+            
+            <h3>Crear un Servicio Reservable</h3>
+            <ol>
+                <li>Ve a <strong>Productos > Añadir nuevo</strong>.</li>
+                <li>Introduce el nombre del servicio y una descripción detallada.</li>
+                <li>En la sección "Datos del producto", selecciona <strong>Producto reservable</strong>.</li>
+                <li>Configura las opciones básicas del servicio:
+                    <ul>
+                        <li><strong>Generales:</strong> Define el precio base y si el servicio tiene un costo adicional por bloque de tiempo reservado.</li>
+                        <li><strong>Reservas:</strong> Configura la duración de la reserva (por hora, día, etc.) y la disponibilidad (fechas y horarios específicos).</li>
+                        <li><strong>Restricciones:</strong> Establece restricciones de tiempo entre reservas, cantidad máxima de reservas por persona, y otros parámetros específicos.</li>
+                        <li><strong>Costes:</strong> Configura precios adicionales por persona o por recurso.</li>
+                        <li><strong>Personas:</strong> Activa esta opción si el servicio requiere definir un número de personas para la reserva, con precios específicos.</li>
+                        <li><strong>Recursos:</strong> Añade y configura recursos adicionales necesarios para el servicio.</li>
+                    </ul>
+                </li>
+                <li>Selecciona la categoría del servicio en la sección "Categorías de producto".</li>
+                <li>Sube una imagen del servicio en la sección "Imagen del producto".</li>
+                <li>Haz clic en <strong>Publicar</strong>.</li>
+            </ol>
+
+
         <!-- Sección de FAQs en formato de acordeón -->
         <div class="instructions-section">
             <h2>FAQs (Preguntas Frecuentes)</h2>
