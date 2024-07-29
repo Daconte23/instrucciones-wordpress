@@ -337,6 +337,42 @@ function instructions_page_content() {
             </ol>
         </div>
 
+        <!-- Sección revisar reservas y pedidos -->
+        <div class="instructions-section">
+            <h2>Gestión de Reservas y Pedidos</h2>
+            <h3>Revisar las Reservas</h3>
+            <ol>
+                <li>Ve a <strong>Reservas > Todas las reservas</strong>.</li>
+                <li>Aquí verás una lista de todas las reservas realizadas en tu tienda. Puedes filtrar las reservas por estado, fecha y otros criterios.</li>
+                <li>Para ver los detalles de una reserva específica, haz clic en el título de la reserva.</li>
+                <li>En la página de detalles de la reserva, puedes ver la información del cliente, los detalles de la reserva, y realizar acciones como aprobar, cancelar o reprogramar la reserva.</li>
+            </ol>
+            
+            <h3>Revisar los Pedidos</h3>
+            <ol>
+                <li>Ve a <strong>WooCommerce > Pedidos</strong>.</li>
+                <li>Aquí verás una lista de todos los pedidos realizados en tu tienda. Puedes filtrar los pedidos por estado, fecha y otros criterios.</li>
+                <li>Para ver los detalles de un pedido específico, haz clic en el número de pedido.</li>
+                <li>En la página de detalles del pedido, puedes ver la información del cliente, los productos pedidos, y realizar acciones como cambiar el estado del pedido, enviar un email al cliente o agregar notas al pedido.</li>
+            </ol>
+            
+            <h3>Ver el Calendario de Reservas</h3>
+            <ol>
+                <li>Ve a <strong>Reservas > Calendario</strong>.</li>
+                <li>Aquí verás un calendario con todas las reservas de tu tienda. Puedes cambiar la vista del calendario (diaria, semanal, mensual) según tus necesidades.</li>
+                <li>Haz clic en una reserva en el calendario para ver sus detalles o editarla.</li>
+            </ol>
+            
+            <h3>Ver las Métricas y Reportes</h3>
+            <ol>
+                <li>Ve a <strong>WooCommerce > Reportes</strong>.</li>
+                <li>Aquí verás diferentes secciones con métricas sobre ventas, pedidos y clientes.</li>
+                <li>Selecciona la sección que deseas revisar (por ejemplo, "Pedidos", "Clientes", "Existencias") para ver las estadísticas detalladas.</li>
+                <li>Puedes filtrar los reportes por fecha, productos y categorías específicas.</li>
+                <li>Utiliza los gráficos y tablas para analizar el rendimiento de tu tienda y tomar decisiones informadas.</li>
+            </ol>
+        </div>
+
         <!-- Sección de FAQs en formato de acordeón -->
         <div class="instructions-section">
             <h2>FAQs (Preguntas Frecuentes)</h2>
