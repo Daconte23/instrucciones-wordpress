@@ -220,6 +220,33 @@ function instructions_page_content() {
             
         </div>
 
+        <!-- Sección de gestión de productos WooCommerce -->
+        <div class="instructions-section">
+            <h2>Gestión de Productos WooCommerce</h2>
+            <h3>Crear un Producto</h3>
+            <ol>
+                <li>Ve a <strong>Productos > Añadir nuevo</strong>.</li>
+                <li>Introduce el nombre del producto y una descripción detallada.</li>
+                <li>Selecciona la categoría del producto en la sección "Categorías de producto".</li>
+                <li>Sube una imagen del producto en la sección "Imagen del producto".</li>
+                <li>Configura el precio y las opciones de inventario en la sección "Datos del producto".</li>
+                <li>Haz clic en <strong>Publicar</strong>.</li>
+            </ol>
+            <h3>Editar un Producto</h3>
+            <ol>
+                <li>Ve a <strong>Productos > Todos los productos</strong>.</li>
+                <li>Haz clic en el nombre del producto que deseas editar.</li>
+                <li>Realiza los cambios necesarios en la descripción, precio, inventario, etc.</li>
+                <li>Haz clic en <strong>Actualizar</strong>.</li>
+            </ol>
+            
+            <h3>Borrar un Producto</h3>
+            <ol>
+                <li>Ve a <strong>Productos > Todos los productos</strong>.</li>
+                <li>Pasa el cursor sobre el producto que deseas borrar y haz clic en <strong>Papelera</strong>.</li>
+            </ol>
+        </div>
+
         <!-- Sección de FAQs en formato de acordeón -->
         <div class="instructions-section">
             <h2>FAQs (Preguntas Frecuentes)</h2>
