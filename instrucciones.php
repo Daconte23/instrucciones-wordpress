@@ -373,6 +373,25 @@ function instructions_page_content() {
             </ol>
         </div>
 
+        <!-- Sección de gestión de horarios de check-in y check-out -->
+        <div class="instructions-section">
+            <h2>Gestión de Horarios de Check-in y Check-out en WooCommerce Accommodation Bookings</h2>
+            <h3>Cambiar Horarios de Check-in y Check-out</h3>
+            <ol>
+                <li>Ve a <strong>Productos > Todos los productos</strong>.</li>
+                <li>Busca el producto de alojamiento cuya configuración deseas modificar y haz clic en su nombre para editarlo.</li>
+                <li>En la sección "Datos del producto", asegúrate de que la pestaña "Alojamiento" esté seleccionada.</li>
+                <li>Dentro de la pestaña "Alojamiento", busca la sección "Check-in/Check-out".</li>
+                <li>Configura los horarios de check-in y check-out según tus necesidades:
+                    <ul>
+                        <li><strong>Hora de Check-in:</strong> Selecciona la hora en que los huéspedes pueden comenzar a registrarse.</li>
+                        <li><strong>Hora de Check-out:</strong> Selecciona la hora en que los huéspedes deben dejar el alojamiento.</li>
+                    </ul>
+                </li>
+                <li>Haz clic en <strong>Actualizar</strong> para guardar los cambios.</li>
+            </ol>
+        </div>
+
         <!-- Sección de FAQs en formato de acordeón -->
         <div class="instructions-section">
             <h2>FAQs (Preguntas Frecuentes)</h2>
