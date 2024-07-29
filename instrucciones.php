@@ -311,6 +311,32 @@ function instructions_page_content() {
             </ol>
         </div>
 
+        <!-- Sección de gestión de reservas WooCommerce Bookings -->
+        <div class="instructions-section">
+            <h2>Gestión de Reservas WooCommerce Bookings</h2>
+            <h3>Crear una Reserva</h3>
+            <ol>
+                <li>Ve a <strong>Reservas > Añadir nueva</strong>.</li>
+                <li>Introduce el título y la descripción de la reserva.</li>
+                <li>Configura las opciones de reserva, como fechas, precios y disponibilidad, en la sección "Datos de la reserva".</li>
+                <li>Haz clic en <strong>Publicar</strong>.</li>
+            </ol>
+            
+            <h3>Editar una Reserva</h3>
+            <ol>
+                <li>Ve a <strong>Reservas > Todas las reservas</strong>.</li>
+                <li>Haz clic en el título de la reserva que deseas editar.</li>
+                <li>Realiza los cambios necesarios en las opciones de reserva.</li>
+                <li>Haz clic en <strong>Actualizar</strong>.</li>
+            </ol>
+            
+            <h3>Borrar una Reserva</h3>
+            <ol>
+                <li>Ve a <strong>Reservas > Todas las reservas</strong>.</li>
+                <li>Pasa el cursor sobre la reserva que deseas borrar y haz clic en <strong>Papelera</strong>.</li>
+            </ol>
+        </div>
+
         <!-- Sección de FAQs en formato de acordeón -->
         <div class="instructions-section">
             <h2>FAQs (Preguntas Frecuentes)</h2>
