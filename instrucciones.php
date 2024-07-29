@@ -34,12 +34,7 @@ function instructions_page_content() {
                 <li>Sube una imagen destacada en la sección "Imagen destacada".</li>
                 <li>Haz clic en <strong>Publicar</strong>.</li>
             </ol>
-           <img src="/wp-content/uploads/2024/07/Screenshot-2024-07-21-15.29.30.png
-" class="thumbnail" alt="Crear una entrada">
-		   <img src="/wp-content/uploads/2024/07/Screenshot-2024-07-21-15.29.30.png
-" class="thumbnail" alt="Crear una entrada">
-           <img src="/wp-content/uploads/2024/07/Screenshot-2024-07-21-15.29.30.png
-" class="thumbnail" alt="Crear una entrada">
+           
 
 
             <h3>Editar una Entrada</h3>
@@ -48,10 +43,7 @@ function instructions_page_content() {
                 <li>Haz clic en el título de la entrada que deseas editar.</li>
                 <li>Realiza los cambios necesarios y haz clic en <strong>Actualizar</strong>.</li>
             </ol>
-            <img src="/wp-content/uploads/2024/07/Screenshot-2024-07-21-15.29.30.png
-" class="thumbnail" alt="Editar una entrada">
-			<img src="/wp-content/uploads/2024/07/Screenshot-2024-07-21-15.29.30.png
-" class="thumbnail" alt="Crear una entrada">
+            
 
 
             <h3>Borrar una Entrada</h3>
@@ -59,23 +51,20 @@ function instructions_page_content() {
                 <li>Ve a <strong>Entradas > Todas las entradas</strong>.</li>
                 <li>Pasa el cursor sobre la entrada que deseas borrar y haz clic en <strong>Papelera</strong>.</li>
             </ol>
-            <img src="/wp-content/uploads/2024/07/Screenshot-2024-07-21-15.29.30.png
-" class="thumbnail" alt="Borrar una entrada">
-        </div>
+            
 
         <!-- Sección para subir imágenes -->
         <div class="instructions-section">
             <h2>Subir Imágenes</h2>
             <p>Para subir imágenes, ve a <strong>Medios > Añadir nuevo</strong> y arrastra tus archivos a la ventana o haz clic en "Seleccionar archivos".</p>
-            <img src="/wp-content/uploads/2024/07/Screenshot-2024-07-21-15.29.30.png
-" class="thumbnail" alt="Subir imágenes">
+            
         </div>
 
         <!-- Sección sobre el uso del editor Gutenberg -->
         <div class="instructions-section">
             <h2>Uso del Editor Gutenberg</h2>
             <p>El editor Gutenberg permite agregar bloques de contenido como párrafos, imágenes, vídeos, y más. Para agregar un bloque, haz clic en el botón (+) en la esquina superior izquierda del editor.</p>
-            <img src="/wp-content/uploads/2024/07/Screenshot-2024-07-21-15.29.30.png" class="thumbnail" alt="Uso del editor Gutenberg">
+            
         </div>
 
         <!-- Sección para cambiar el idioma del sitio -->
@@ -86,16 +75,14 @@ function instructions_page_content() {
                 <li>En la sección "Idioma del sitio", selecciona el idioma deseado.</li>
                 <li>Haz clic en <strong>Guardar cambios</strong>.</li>
             </ol>
-            <img src="/wp-content/uploads/2024/07/Screenshot-2024-07-21-15.29.30.png
-" class="thumbnail" alt="Cambiar el idioma del sitio">
+            
         </div>
 
         <!-- Sección sobre permalinks -->
         <div class="instructions-section">
             <h2>No Tocar los Permalinks</h2>
             <p>Es importante no modificar los permalinks ya que puede afectar la estructura de las URL de tu sitio y causar errores 404.</p>
-            <img src="/wp-content/uploads/2024/07/Screenshot-2024-07-21-15.29.30.png
-" class="thumbnail" alt="No tocar los permalinks">
+            
         </div>
 
         <!-- Sección de gestión de usuarios -->
@@ -107,8 +94,7 @@ function instructions_page_content() {
                 <li>Rellena los campos necesarios y selecciona el rol del usuario.</li>
                 <li>Haz clic en <strong>Añadir nuevo usuario</strong>.</li>
             </ol>
-            <img src="/wp-content/uploads/2024/07/Screenshot-2024-07-21-15.29.30.png
-" class="thumbnail" alt="Crear un nuevo usuario">
+            
 
             <h3>Editar un Usuario</h3>
             <ol>
@@ -116,8 +102,7 @@ function instructions_page_content() {
                 <li>Haz clic en el nombre del usuario que deseas editar.</li>
                 <li>Realiza los cambios necesarios y haz clic en <strong>Actualizar usuario</strong>.</li>
             </ol>
-            <img src="/wp-content/uploads/2024/07/Screenshot-2024-07-21-15.29.30.png
-" class="thumbnail" alt="Editar un usuario">
+            
         </div>
 
         <!-- Sección de gestión de páginas -->
@@ -129,8 +114,7 @@ function instructions_page_content() {
                 <li>Introduce el título y el contenido de la página.</li>
                 <li>Haz clic en <strong>Publicar</strong>.</li>
             </ol>
-            <img src="/wp-content/uploads/2024/07/Screenshot-2024-07-21-15.29.30.png
-" class="thumbnail" alt="Crear una página">
+            
 
             <h3>Editar una Página</h3>
             <ol>
@@ -138,8 +122,7 @@ function instructions_page_content() {
                 <li>Haz clic en el título de la página que deseas editar.</li>
                 <li>Realiza los cambios necesarios y haz clic en <strong>Actualizar</strong>.</li>
             </ol>
-            <img src="/wp-content/uploads/2024/07/Screenshot-2024-07-21-15.29.30.png
-" class="thumbnail" alt="Editar una página">
+            
         </div>
 
         <!-- Sección para cambiar la contraseña -->
@@ -151,8 +134,7 @@ function instructions_page_content() {
                 <li>Haz clic en <strong>Generar contraseña</strong> y escribe la nueva contraseña.</li>
                 <li>Haz clic en <strong>Actualizar perfil</strong>.</li>
             </ol>
-            <img src="/wp-content/uploads/2024/07/Screenshot-2024-07-21-15.29.30.png
-" class="thumbnail" alt="Cambiar la contraseña">
+            
         </div>
 
         <!-- Sección de gestión de comentarios -->
@@ -163,8 +145,7 @@ function instructions_page_content() {
                 <li>Ve a <strong>Comentarios</strong> en el menú de administración.</li>
                 <li>Pasa el cursor sobre un comentario y haz clic en <strong>Aprobar</strong>, <strong>Responder</strong>, <strong>Editar</strong> o <strong>Eliminar</strong>.</li>
             </ol>
-            <img src="/wp-content/uploads/2024/07/Screenshot-2024-07-21-15.29.30.png
-" class="thumbnail" alt="Gestión de comentarios">
+            
         </div>
 
         <!-- Sección de actualización de plugins y temas -->
@@ -175,16 +156,14 @@ function instructions_page_content() {
                 <li>Selecciona los plugins y temas que deseas actualizar.</li>
                 <li>Haz clic en <strong>Actualizar plugins</strong> o <strong>Actualizar temas</strong>.</li>
             </ol>
-            <img src="/wp-content/uploads/2024/07/Screenshot-2024-07-21-15.29.30.png
-" class="thumbnail" alt="Actualización de plugins y temas">
+            
         </div>
 
         <!-- Sección de backup del sitio -->
         <div class="instructions-section">
             <h2>Backup del Sitio</h2>
             <p>Para realizar copias de seguridad del sitio, utiliza un plugin de backup como UpdraftPlus o BackWPup. Sigue las instrucciones del plugin para configurar y realizar copias de seguridad.</p>
-            <img src="/wp-content/uploads/2024/07/Screenshot-2024-07-21-15.29.30.png
-" class="thumbnail" alt="Backup del sitio">
+            
         </div>
 
         <!-- Sección de seguridad del sitio -->
@@ -196,8 +175,7 @@ function instructions_page_content() {
                 <li>Mantén WordPress, los plugins y los temas actualizados.</li>
                 <li>Utiliza un plugin de seguridad como Wordfence o Sucuri.</li>
             </ul>
-            <img src="/wp-content/uploads/2024/07/Screenshot-2024-07-21-15.29.30.png
-" class="thumbnail" alt="Seguridad del sitio">
+            
         </div>
 
         <!-- Sección de uso de widgets -->
@@ -208,8 +186,7 @@ function instructions_page_content() {
                 <li>Arrastra los widgets a las áreas de widgets disponibles.</li>
                 <li>Configura los ajustes del widget según sea necesario y haz clic en <strong>Guardar</strong>.</li>
             </ol>
-            <img src="/wp-content/uploads/2024/07/Screenshot-2024-07-21-15.29.30.png
-" class="thumbnail" alt="Uso de widgets">
+            
         </div>
 
         <!-- Sección de configuración de menús -->
@@ -221,16 +198,14 @@ function instructions_page_content() {
                 <li>Añade elementos al menú desde las páginas, entradas, categorías o enlaces personalizados.</li>
                 <li>Organiza los elementos del menú arrastrándolos y haz clic en <strong>Guardar menú</strong>.</li>
             </ol>
-            <img src="/wp-content/uploads/2024/07/Screenshot-2024-07-21-15.29.30.png
-" class="thumbnail" alt="Configuración de menús">
+            
         </div>
 
         <!-- Sección de uso de shortcodes -->
         <div class="instructions-section">
             <h2>Uso de Shortcodes</h2>
             <p>Si tu tema o plugins proporcionan shortcodes, puedes utilizarlos para agregar contenido especial. Simplemente introduce el shortcode en el editor de la entrada o página.</p>
-            <img src="/wp-content/uploads/2024/07/Screenshot-2024-07-21-15.29.30.png
-" class="thumbnail" alt="Uso de shortcodes">
+            
         </div>
 
         <!-- Sección de SEO básico -->
@@ -242,8 +217,7 @@ function instructions_page_content() {
                 <li>Optimiza las imágenes con textos alternativos (alt) descriptivos.</li>
                 <li>Utiliza un plugin de SEO como Yoast SEO o All in One SEO.</li>
             </ul>
-            <img src="/wp-content/uploads/2024/07/Screenshot-2024-07-21-15.29.30.png
-" class="thumbnail" alt="SEO básico">
+            
         </div>
 
         <!-- Sección de FAQs en formato de acordeón -->
