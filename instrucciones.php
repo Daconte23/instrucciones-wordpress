@@ -392,7 +392,7 @@ function instructions_page_content() {
             </ol>
         </div>
 
-        <!-- Sección de FAQs en formato de acordeón -->
+         <!-- Sección de FAQs en formato de acordeón -->
         <div class="instructions-section">
             <h2>FAQs (Preguntas Frecuentes)</h2>
             <div class="accordion">
@@ -496,9 +496,58 @@ function instructions_page_content() {
                         <p>Ve a <strong>Apariencia > Menús</strong>, añade elementos al menú desde las páginas, entradas, categorías o enlaces personalizados, organiza los elementos y haz clic en "Guardar menú".</p>
                     </div>
                 </div>
+                <!-- Pregunta 11 -->
+                <div class="accordion-item">
+                    <button id="accordion-button-11" aria-expanded="false">
+                        <span class="accordion-title">¿Cómo puedo cambiar los horarios de check-in y check-out?</span>
+                        <span class="icon" aria-hidden="true"></span>
+                    </button>
+                    <div class="accordion-content">
+                        <p>Ve a <strong>Productos > Todos los productos</strong>, selecciona el alojamiento que deseas modificar, y haz clic en su nombre. En la sección "Datos del producto", selecciona la pestaña "Alojamiento". Dentro de esta pestaña, configura las opciones de "Check-in/Check-out" para ajustar los horarios. No olvides hacer clic en <strong>Actualizar</strong> para guardar los cambios.</p>
+                    </div>
+                </div>
+                <!-- Pregunta 12 -->
+                <div class="accordion-item">
+                    <button id="accordion-button-12" aria-expanded="false">
+                        <span class="accordion-title">¿Cómo puedo ver y gestionar las reservas?</span>
+                        <span class="icon" aria-hidden="true"></span>
+                    </button>
+                    <div class="accordion-content">
+                        <p>Ve a <strong>Reservas > Todas las reservas</strong> para ver una lista completa de todas las reservas. Puedes filtrar y buscar reservas específicas, así como ver detalles y realizar acciones como aprobar, cancelar o reprogramar reservas.</p>
+                    </div>
+                </div>
+                <!-- Pregunta 13 -->
+                <div class="accordion-item">
+                    <button id="accordion-button-13" aria-expanded="false">
+                        <span class="accordion-title">¿Cómo puedo revisar los pedidos?</span>
+                        <span class="icon" aria-hidden="true"></span>
+                    </button>
+                    <div class="accordion-content">
+                        <p>Ve a <strong>WooCommerce > Pedidos</strong> para ver una lista de todos los pedidos realizados en tu tienda. Haz clic en el número de pedido para ver los detalles y realizar acciones como cambiar el estado del pedido o agregar notas.</p>
+                    </div>
+                </div>
+                <!-- Pregunta 14 -->
+                <div class="accordion-item">
+                    <button id="accordion-button-14" aria-expanded="false">
+                        <span class="accordion-title">¿Cómo puedo ver el calendario de reservas?</span>
+                        <span class="icon" aria-hidden="true"></span>
+                    </button>
+                    <div class="accordion-content">
+                        <p>Ve a <strong>Reservas > Calendario</strong> para visualizar todas las reservas en un calendario. Puedes cambiar la vista a diaria, semanal o mensual, y hacer clic en las reservas para ver más detalles o editarlas.</p>
+                    </div>
+                </div>
+                <!-- Pregunta 15 -->
+                <div class="accordion-item">
+                    <button id="accordion-button-15" aria-expanded="false">
+                        <span class="accordion-title">¿Cómo puedo ver las métricas y reportes de mi tienda?</span>
+                        <span class="icon" aria-hidden="true"></span>
+                    </button>
+                    <div class="accordion-content">
+                        <p>Ve a <strong>WooCommerce > Reportes</strong> para acceder a diferentes métricas sobre ventas, pedidos y clientes. Puedes filtrar los reportes por fecha, productos y categorías para obtener una visión detallada del rendimiento de tu tienda.</p>
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
 
     <!-- Estilos CSS -->
     <style>
