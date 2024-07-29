@@ -309,7 +309,7 @@ function instructions_page_content() {
                 <li>Sube una imagen del servicio en la sección "Imagen del producto".</li>
                 <li>Haz clic en <strong>Publicar</strong>.</li>
             </ol>
-
+        </div>
 
         <!-- Sección de FAQs en formato de acordeón -->
         <div class="instructions-section">
