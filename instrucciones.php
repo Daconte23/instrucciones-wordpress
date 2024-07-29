@@ -51,6 +51,7 @@ function instructions_page_content() {
                 <li>Ve a <strong>Entradas > Todas las entradas</strong>.</li>
                 <li>Pasa el cursor sobre la entrada que deseas borrar y haz clic en <strong>Papelera</strong>.</li>
             </ol>
+        </div>
             
 
         <!-- Sección para subir imágenes -->
